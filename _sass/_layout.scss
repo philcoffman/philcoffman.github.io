@@ -1,0 +1,38 @@
+// Layout
+//
+// Styles for managing the structural hierarchy of the site.
+
+.container {
+  // padding-left:  1.5rem;
+  // padding-right: 1.5rem;
+}
+
+main {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 42rem) minmax(0, 1fr);
+  > * {
+    grid-column: 2;
+  }
+}
+
+.posts {
+
+}
+
+.video__wrapper {
+  overflow: hidden;
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  iframe {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+footer {
+  margin-bottom: 2rem;
+}

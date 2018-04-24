@@ -1,0 +1,58 @@
+// Custom Font Includes
+// @include font-face(Interface, '/fonts/Interface-Regular', normal);
+// @include font-face(Interface, '/fonts/Interface-RegularItalic', normal, italic);
+// @include font-face(Interface, '/fonts/Interface-Bold', bold);
+// @include font-face(Interface, '/fonts/Interface-BoldItalic', bold, italic);
+// @include font-face(Gibson, '/fonts/gibson', normal);
+// @include font-face(Gibson, '/fonts/gibson-italic', normal, italic);
+// @include font-face(Gibson, '/fonts/gibson-semibold', bold);
+// @include font-face(Gibson, '/fonts/gibson-semibold-italic', bold, italic);
+
+$neutral--darker: #07080A;
+$neutral--dark: #3A3F4D;
+$neutral: #9EA1AA;
+$neutral--light: #F2F2F2;
+$neutral--lighter: #FFFFFF;
+
+$faded--white: rgba(255,255,255,.7);
+$faded--black: rgba(0,0,0,.7);
+
+$teal: #5CB7AF;
+$teal--dark: #1F4F57;
+$blue: #3C79AE;
+$blue--dark: #232A58;
+$purple: #A575B2;
+$purple--dark: #45133D;
+$green: #50A863;
+$green--dark: #1D612B;
+$red: #C80A2F;
+$red--dark: #4F0004;
+$yellow: #FCCA41;
+$yellow--dark: #F59627;
+$orange: #E15A1E;
+$orange--dark: #8E2511;
+
+// $root-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+$root-font-family: "soleil";
+$root-font-size: 16px;
+$root-line-height: 1.5;
+
+$headline-font-family: "jaf-lapture-display";
+
+$mono-font-family: "t26-carbon";
+
+$body-color: $neutral--darker;
+$body-bg: #fff;
+$link-color: $red;
+
+$border-color: #e5e5e5;
+
+$large-breakpoint: 38em;
+$large-font-size: 20px;
+
+$code-font-family: $mono-font-family, Menlo, Monaco, "Courier New", monospace;
+$code-color: #bf616a;
+
+$ease--normal: .35s cubic-bezier(0.165, 0.840, 0.440, 1.000);
+$ease--fast: .1s cubic-bezier(0.165, 0.840, 0.440, 1.000);
+$ease--slow: .8s cubic-bezier(0.165, 0.840, 0.440, 1.000);
