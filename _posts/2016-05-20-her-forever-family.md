@@ -2,7 +2,7 @@
 layout:      post
 title:       Her Forever Family
 number:      11
-tags:        Family Fostering
+categories:  Family Fostering
 ---
 
 It's been 20 months. 20 months of raising her from an infant to almost two years old. 20 months of nurturing, meeting needs, laughing and being silly, holding her when she cries. 20 months of uncertainty as to what her futures hold. If you've read my other [two](http://blog.philcoffman.com/i-am-a-foster-parent/) [posts](http://blog.philcoffman.com/answering-my-foster-questions/) about fostering then you know this road has been an incredible journey of new depths of love, joy, questions and sacrificing. We've done so gladly.

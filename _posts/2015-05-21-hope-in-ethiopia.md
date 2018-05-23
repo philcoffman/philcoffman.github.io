@@ -2,7 +2,7 @@
 layout:      post
 title:       Hope In Ethiopia
 number:      6
-tags:        Life
+categories:  Life
 ---
 
 

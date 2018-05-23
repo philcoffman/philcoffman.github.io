@@ -2,7 +2,7 @@
 layout:      post
 title:       Answering My Fostering Questions
 number:      8
-tags:        Family Fostering
+categories:  Family Fostering
 ---
 
 Foster training provided a wealth of knowledge for us but obviously there are plenty of questions that are left unanswered during that period because the answers require first-hand experience. With this post I'd like to talk through the questions I had going into fostering and how they have been answered so far.

@@ -7,6 +7,12 @@
 // @include font-face(Gibson, '/fonts/gibson-italic', normal, italic);
 // @include font-face(Gibson, '/fonts/gibson-semibold', bold);
 // @include font-face(Gibson, '/fonts/gibson-semibold-italic', bold, italic);
+// @include font-face(Geomanist, '/fonts/geomanist-regular-italic-webfont', normal);
+// @include font-face(Geomanist, '/fonts/geomanist-black-webfont', bold);
+// @include font-face(HKGrotesk, '/fonts/HKGrotesk-Medium', normal);
+// @include font-face(HKGrotesk, '/fonts/HKGrotesk-MediumItalic', normal, italic);
+// @include font-face(HKGrotesk, '/fonts/HKGrotesk-Bold', bold);
+// @include font-face(HKGrotesk, '/fonts/HKGrotesk-BoldItalic', bold, italic);
 
 $neutral--darker: #07080A;
 $neutral--dark: #3A3F4D;
@@ -33,13 +39,16 @@ $orange: #E15A1E;
 $orange--dark: #8E2511;
 
 // $root-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
-$root-font-family: "soleil";
-$root-font-size: 16px;
-$root-line-height: 1.5;
+$root-font-family: "IBM Plex Sans", sans-serif;
+// $root-font-family: "HKGrotesk";
+// $root-font-family: "leitura-news", georgia, serif;
+$root-font-size: 18px;
+$root-line-height: 1.75;
 
-$headline-font-family: "jaf-lapture-display";
+$headline-font-family: "IBM Plex Mono", monospace;
+// $headline-font-family: "IBM Plex Serif", serif;
 
-$mono-font-family: "t26-carbon";
+$mono-font-family: "IBM Plex Mono", monospace;
 
 $body-color: $neutral--darker;
 $body-bg: #fff;
@@ -48,7 +57,7 @@ $link-color: $red;
 $border-color: #e5e5e5;
 
 $large-breakpoint: 38em;
-$large-font-size: 20px;
+$large-font-size: 22px;
 
 $code-font-family: $mono-font-family, Menlo, Monaco, "Courier New", monospace;
 $code-color: #bf616a;

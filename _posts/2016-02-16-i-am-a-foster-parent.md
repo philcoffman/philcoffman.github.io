@@ -2,7 +2,7 @@
 layout:      post
 title:       I Am a Foster Parent
 number:      7
-tags:        Life
+categories:  Life
 ---
 
 About two years ago my wife and I decided to officially commit to the process of becoming licensed foster parents. That wasn't the first time we considered it. Prior to our second child being born we began the process but were pleasantly surprised by the news that we were expecting, so we put fostering on hold. Two years ago he was 3 and we felt led to begin the discussion again.

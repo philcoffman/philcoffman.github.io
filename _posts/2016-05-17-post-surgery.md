@@ -2,7 +2,7 @@
 layout:      post
 title:       Post Surgery
 number:      10
-tags:        Life
+categories:  Life
 ---
 
 Yesterday's surgery is over. It all went well and my recovery so far has been fine. The doctor says he is very pleased with the procedure and thinks I'll heal up well. I struggled with some initial nausea due to the anesthesia but that seems to be behind me now. Pain is manageable. Most annoying part is having to breathe through my mouth.
